@@ -186,5 +186,3 @@ NiveshAI is built for **educational and research purposes only**. Nothing on thi
 
 **Rama Sai Kiran Medam**
 ---
-
-*Built with React + Gemini AI · Real-time data from Yahoo Finance · Made for Indian retail investors*
